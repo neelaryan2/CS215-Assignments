@@ -1,0 +1,14 @@
+Instructions to run code:
+
+Question 5:
+    run the file 'a2q5.m'
+    the graphs will be generated in one window,
+    to go to the next graph in the window, press
+    space.
+    Files: a2q5.m
+
+Question 6:
+    run the file 'a2q6.m'
+    the graphs will be generated in different 
+    windows.
+    Files: a2q6.m

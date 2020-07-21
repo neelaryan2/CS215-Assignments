@@ -1,0 +1,42 @@
+INSTRUCTIONS
+
+--------------------------------------------------------
+QUESTION-5
+
+Executing the script will show 2 graphs on
+different windows, one for f=30% and the other 
+for f=60%. Also the relative mean squared errors 
+for all the filtered signals are printed in
+the command window for both f=30% and f=60%.
+
+Following are the files:
+a1q5.m
+
+--------------------------------------------------------
+QUESTION-6
+
+The three functions to be defined have been
+made into three *.m files of the same name.
+The arguments and the function names have been
+defined exactly as given in the question.
+
+Following are the files:
+UpdateMean.m
+UpdateMedian.m
+UpdateStd.m
+
+
+--------------------------------------------------------
+QUESTION-7
+
+Executing this script will print both 
+the graph as well as give the output
+to the p values given in the question.
+The answer to the p values in stored 
+in nr array and p values themselves are 
+stored in the pr array.
+The graph plotted between n and p is plotted 
+according to the conditions given in the question.
+
+Following are the files:
+CommonBirthday.m

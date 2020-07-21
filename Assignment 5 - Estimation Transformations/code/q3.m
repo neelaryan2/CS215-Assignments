@@ -1,0 +1,14 @@
+clc(); clear();
+N = 10^6;
+r = 1;
+p = zeros(2, N);
+rng(0);
+theta = 2 * pi * rand(1, N);
+p(1, :) = r * cos(theta);
+p(2, :) = r * sin(theta); 
+cov = (p * transpose(p)) / N;
+mean = [sum(p(1, :)); sum(p(2, :))] / N;
+figure(1);
+scatter(p(1, :), p(2, :));
+xlabel('x');
+ylabel('y');

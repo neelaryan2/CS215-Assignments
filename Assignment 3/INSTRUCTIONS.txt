@@ -1,0 +1,12 @@
+Instructions to run MATLAB code
+
+Question 3:
+
+    Run 'a3q3.m'
+    Files : a3q3.m
+
+
+Question 4:
+
+    Run 'a3q4.m'
+    Files : a3q4.m
